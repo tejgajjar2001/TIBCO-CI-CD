@@ -1,4 +1,6 @@
 #! /bin/sh
+# Author: Tejas Gajjar
+###############################################################
 #     AppManage -batchStop -domain $2 -cred $3 -dir $DF_HOME/$1/artifacts
 #     $1=ReleaseTag
 #     $4=AppManage.batch or other name of the batched app list
