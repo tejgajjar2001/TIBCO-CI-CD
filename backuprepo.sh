@@ -1,3 +1,5 @@
+#! /bin/sh
+# Author: Tejas Gajjar
 # ===========================================================
 # Executes the deployment framwork option to batchExport
 # the entire repository
