@@ -1,7 +1,7 @@
 # ############################################################
 # Author:   Tejas Gajjar
 # ===========================================================
-# Executes the deployment framwork option for BatchStop
+# Executes the deployment framwork option for BatchStart
 # ############################################################
 #!/bin/sh
 if [ $# != 4 ]
