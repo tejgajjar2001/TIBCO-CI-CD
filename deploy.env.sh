@@ -1,3 +1,6 @@
+#! /bin/sh
+# Author: Tejas Gajjar
+#==========================================================
 # Execution Date YYYYMMDDHHMM
 exec_dt=`date +"%Y%m%d%H%M"`
 # extract tibconum from current location /apps/tibco#/startup or /home/tibco#/sw
