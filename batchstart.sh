@@ -1,3 +1,6 @@
+#! /bin/sh
+# Author: Tejas Gajjar
+##########################################################
 # Executes the deployment framwork option to batchDeploy
 # the entire repository
 # Syntax:
